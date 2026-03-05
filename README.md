@@ -11,5 +11,5 @@
 
 ---
 
-### 📊 Language Preference
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyewonss&layout=compact&theme=radical&hide_border=true" width="400">
+### Language Preference📊
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyewonss)](https://github.com/anuraghazra/github-readme-stats)
