@@ -1,6 +1,5 @@
-[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://kayla0220.tistory.com/)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://kayla0220.tistory.com/)
 <h2> My tech stack 📚</h2>
 
 <p align="left">
