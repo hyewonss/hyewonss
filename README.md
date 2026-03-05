@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://kayla0220.tistory.com/)
+
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://kayla0220.tistory.com)
+<a href="본인의_티스토리_주소">
+  <img src="https://img.shields.io/badge/Tistory-블로그_방문하기-orange?style=flat-square&logo=tistory">
+</a>
 <h2> My tech stack 📚</h2>
 
 <p align="left">
