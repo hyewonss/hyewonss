@@ -18,3 +18,12 @@
 
 ### Language Preference📊
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hyewonss&layout=compact&theme=radical&hide=dart)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=hyewonss&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hyewonss"
+  width="600"
+  height="300"
+/>
+</a>
