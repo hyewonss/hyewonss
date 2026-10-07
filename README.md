@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B2E1FC&height=130&section=header" />
-
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://kayla0220.tistory.com/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nowxeyhxs/)
 <h2> My tech stack 📚</h2>
